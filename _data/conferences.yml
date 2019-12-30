@@ -23,11 +23,11 @@
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
 
-- name: KDD (TBD)
+- name: KDD
   year: 2020
   id: kdd20
   link: https://www.kdd.org/kdd2020/
-  deadline: "2020-02-03 23:59:59"
+  deadline: "2020-02-13 23:59:59"
   timezone: America/Los_Angeles
   date: August 22-27, 2020
   place: San Diego Convention Center, San Diego, California - USA
@@ -54,25 +54,39 @@
   place: Chicago, IL
   sub: MIC
 
-- name: ECCV (TBD)
+  
+- name: MICCAI-abstract
   year: 2020
-  id: eccv20
-  link: http://eccv2020.eu/
-  deadline: "2020-03-14 15:59:00"
-  timezone: America/Los_Angeles
-  date: Aug 23 - 28, 2020
-  place: Glasgow, UK
-  sub: CV
-
-- name: MICCAI (TBD)
-  year: 2020
-  id: miccai2020
-  link: http://www.miccai.org/events/upcoming-conferences/
-  deadline: "2020-03-20 18:00:00"
+  id: miccai2020-abs
+  link: https://www.miccai2020.org/
+  deadline: "2020-02-18 23:59:00"
   timezone: US/Pacific
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
+
+
+- name: MICCAI
+  year: 2020
+  id: miccai2020
+  link: https://www.miccai2020.org/
+  deadline: "2020-03-03 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
+
+- name: ECCV (TBD)
+  year: 2020
+  id: eccv20
+  link: http://eccv2020.eu/
+  deadline: "2020-03-05 15:59:00"
+  timezone: America/Los_Angeles
+  date: Aug 23 - 28, 2020
+  place: Glasgow, UK
+  sub: CV
 
 - name: RSNA-abstract (TBD)
   year: 2020
