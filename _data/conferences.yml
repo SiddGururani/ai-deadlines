@@ -1,17 +1,6 @@
 
 ---
 
-- name: IJCAI
-  year: 2020
-  id: ijcai2020
-  link: https://www.ijcai20.org
-  deadline: "2020-01-21 11:59:00"
-  timezone: UTC
-  date: Jul 11 - 17, 2020
-  place: Yokohama, Japan
-  sub: ML
-  note: "<b>NOTE</b>: Abstract submission deadline: January 15, 2020 (11:59PM UTC-12)"
-
 - name: ICML-abstract
   year: 2020
   id: icml2020-abs
@@ -22,16 +11,6 @@
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
-
-- name: KDD
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: "2020-02-13 23:59:59"
-  timezone: America/Los_Angeles
-  date: August 22-27, 2020
-  place: San Diego Convention Center, San Diego, California - USA
-  sub: ML
 
 - name: ICML
   year: 2020
@@ -54,7 +33,16 @@
   place: Chicago, IL
   sub: MIC
 
-  
+- name: KDD
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: "2020-02-13 23:59:59"
+  timezone: America/Los_Angeles
+  date: August 22-27, 2020
+  place: San Diego Convention Center, San Diego, California - USA
+  sub: ML
+
 - name: MICCAI-abstract
   year: 2020
   id: miccai2020-abs
@@ -65,7 +53,6 @@
   place: San Miguel, Lima, Peru
   sub: MIC
   note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
-
 
 - name: MICCAI
   year: 2020
@@ -406,3 +393,14 @@
   date: Jun 13 - 19, 2020
   place: Seattle, United States
   sub: CV
+
+- name: IJCAI
+  year: 2020
+  id: ijcai2020
+  link: https://www.ijcai20.org
+  deadline: "2020-01-21 11:59:00"
+  timezone: UTC
+  date: Jul 11 - 17, 2020
+  place: Yokohama, Japan
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: January 15, 2020 (11:59PM UTC-12)"
