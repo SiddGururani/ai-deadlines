@@ -1,17 +1,6 @@
 
 ---
 
-- name: ICML-abstract
-  year: 2020
-  id: icml2020-abs
-  link: https://icml.cc/Conferences/2020
-  deadline: "2020-01-31 03:59:00"
-  timezone: America/Los_Angeles
-  date: Jul 13 - 18, 2020
-  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
-  sub: ML
-  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
-
 - name: ICML
   year: 2020
   id: icml2020
@@ -22,6 +11,16 @@
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. "
+
+- name: CVPR rebuttal
+  year: 2020
+  id: cvpr2020-rebuttal
+  link: http://cvpr2020.thecvf.com
+  deadline: "2020-02-08 23:59:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV
 
 - name: ASCO-abstract
   year: 2020
@@ -404,3 +403,14 @@
   place: Yokohama, Japan
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: January 15, 2020 (11:59PM UTC-12)"
+
+- name: ICML-abstract
+  year: 2020
+  id: icml2020-abs
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-01-31 03:59:00"
+  timezone: America/Los_Angeles
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
