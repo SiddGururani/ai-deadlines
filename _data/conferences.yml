@@ -74,7 +74,7 @@
   sub: MIC
   note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
 
-- title: ECCV
+- name: ECCV
   year: 2020
   id: eccv20
   link: https://eccv2020.eu
