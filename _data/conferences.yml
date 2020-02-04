@@ -22,6 +22,16 @@
   place: Seattle, United States
   sub: CV
 
+- name: MICCAI Challenge rebuttal
+  year: 2020
+  id: miccai2020c-rebuttal
+  link: https://www.biomedical-challenges.org/miccai2020/
+  deadline: "2020-02-14 23:59:00"
+  timezone: Etc/GMT+11
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+
 - name: ASCO-abstract
   year: 2020
   id: asco2020
@@ -41,6 +51,16 @@
   date: August 22-27, 2020
   place: San Diego Convention Center, San Diego, California - USA
   sub: ML
+
+- name: MICCAI Challenge rebuttal
+  year: 2020
+  id: miccai2020c-rebuttal
+  link: https://www.biomedical-challenges.org/miccai2020/
+  deadline: "2020-02-14 23:59:00"
+  timezone: Etc/GMT+11
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
 
 - name: MICCAI-abstract
   year: 2020
