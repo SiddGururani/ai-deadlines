@@ -56,23 +56,13 @@
   year: 2020
   id: miccai2020-abs
   link: https://www.miccai2020.org/
-  deadline: "2020-02-18 23:59:00"
-  timezone: US/Pacific
-  date: Oct 4 - 8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
-
-- name: MICCAI
-  year: 2020
-  id: miccai2020
-  link: https://www.miccai2020.org/
   deadline: "2020-03-03 23:59:00"
   timezone: US/Pacific
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
 
 - name: ECCV
   year: 2020
@@ -83,6 +73,17 @@
   date: August 23-28, 2020
   place: Glasgow, Scotland, UK
   sub: CV
+
+- name: MICCAI
+  year: 2020
+  id: miccai2020
+  link: https://www.miccai2020.org/
+  deadline: "2020-03-17 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
 
 - name: RSNA abstract (TBD)
   year: 2020
