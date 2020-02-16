@@ -1,80 +1,39 @@
 
 ---
 
-- name: ICML
-  year: 2020
-  id: icml2020
-  link: https://icml.cc/Conferences/2020
-  deadline: "2020-02-07 03:59:00"
-  timezone: America/Los_Angeles
-  date: Jul 13 - 18, 2020
-  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
-  sub: ML
-  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. "
-
-- name: CVPR rebuttal
-  year: 2020
-  id: cvpr2020-rebuttal
-  link: http://cvpr2020.thecvf.com
-  deadline: "2020-02-08 23:59:00"
-  timezone: US/Pacific
-  date: Jun 13 - 19, 2020
-  place: Seattle, United States
-  sub: CV
-
-- name: ASCO-abstract
-  year: 2020
-  id: asco2020
-  link: https://meetings.asco.org/am/abstracts
-  deadline: "2020-02-11 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 29 - June 2, 2020
-  place: Chicago, IL
-  sub: MIC
-
-- name: KDD
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: "2020-02-13 23:59:59"
-  timezone: America/Los_Angeles
-  date: August 22-27, 2020
-  place: San Diego Convention Center, San Diego, California - USA
-  sub: ML
-
-- name: MICCAI-abstract
+- name: MICCAI abstract
   year: 2020
   id: miccai2020-abs
-  link: https://www.miccai2020.org/
-  deadline: "2020-02-18 23:59:00"
-  timezone: US/Pacific
-  date: Oct 4 - 8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
-
-- name: MICCAI
-  year: 2020
-  id: miccai2020
   link: https://www.miccai2020.org/
   deadline: "2020-03-03 23:59:00"
   timezone: US/Pacific
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-18 23:59:00."
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
 
-- name: ECCV (TBD)
+- name: ECCV
   year: 2020
   id: eccv20
-  link: http://eccv2020.eu/
-  deadline: "2020-03-05 15:59:00"
-  timezone: America/Los_Angeles
-  date: Aug 23 - 28, 2020
-  place: Glasgow, UK
+  link: https://eccv2020.eu
+  deadline: "2020-03-05 07:00:00"
+  timezone: Europe/London
+  date: August 23-28, 2020
+  place: Glasgow, Scotland, UK
   sub: CV
 
-- name: RSNA-abstract (TBD)
+- name: MICCAI
+  year: 2020
+  id: miccai2020
+  link: https://www.miccai2020.org/
+  deadline: "2020-03-17 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: RSNA abstract (TBD)
   year: 2020
   id: rsna2020
   link: https://www.rsna.org/annual-meeting/abstract-submission
@@ -93,6 +52,17 @@
   date: TBD
   place: TBD
   sub: ML
+
+- name: TMI call for Annotation-Efficient Deep Learning for Medical Imaging
+  year: 2020
+  id: tmi-si
+  link: assets/Special_Issue_CFP_tmi.pdf
+  deadline: "2020-07-01 23:59:59"
+  timezone: UTC
+  date: Dec 15, 2020
+  place: TMI
+  sub: SI
+  note: IEEE Transactions on Medical Imaging (IF - 7.816)
 
 - name: CVPR
   year: 2018
@@ -414,3 +384,54 @@
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
+
+- name: ICML
+  year: 2020
+  id: icml2020
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-02-07 03:59:00"
+  timezone: America/Los_Angeles
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. "
+
+- name: CVPR rebuttal
+  year: 2020
+  id: cvpr2020-rebuttal
+  link: http://cvpr2020.thecvf.com
+  deadline: "2020-02-08 23:59:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV
+
+- name: ASCO abstract
+  year: 2020
+  id: asco2020
+  link: https://meetings.asco.org/am/abstracts
+  deadline: "2020-02-11 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 29 - June 2, 2020
+  place: Chicago, IL
+  sub: MIC
+
+- name: KDD
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: "2020-02-13 23:59:59"
+  timezone: America/Los_Angeles
+  date: August 22-27, 2020
+  place: San Diego Convention Center, San Diego, California - USA
+  sub: ML
+
+- name: MICCAI Challenge rebuttal
+  year: 2020
+  id: miccai2020c-rebuttal
+  link: https://www.biomedical-challenges.org/miccai2020/
+  deadline: "2020-02-14 23:59:00"
+  timezone: Etc/GMT+1
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
