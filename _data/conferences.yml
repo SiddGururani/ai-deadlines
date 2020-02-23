@@ -66,7 +66,7 @@
 - name: TMI call for Annotation-Efficient Deep Learning
   year: 2020
   id: tmi-si
-  link: assets/Special_Issue_CFP_tmi.pdf
+  link: https://ieee-tmi.org/Special_Issue_CFP_DL4MI.pdf
   deadline: "2020-07-01 23:59:59"
   timezone: UTC
   date: Dec 15, 2020
