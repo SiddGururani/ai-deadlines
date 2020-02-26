@@ -1,11 +1,11 @@
-title: AI Deadlines
-remark: CV-oriented
+title: Conference Deadlines
+remark: AI/ML/MIR-oriented
 
 description: Countdowns to top ML / CV / MIC conference and special issue deadlines
-author: YANG Jiancheng
+author: Siddharth Gururani
 maintainers: duducheng
 
-domain: "m3dv.github.io/ai-deadlines/"
+domain: "siddgururani.github.io/ai-deadlines/"
 baseurl: "ai-deadlines"
 
 github_username: m3dv
